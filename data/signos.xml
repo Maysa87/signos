@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <nome>Áries</nome>
+        <descricao>Pioneiros e entusiasmados, os arianos adoram desafios e têm muita energia.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <nome>Touro</nome>
+        <descricao>Práticos e determinados, os taurinos apreciam segurança e conforto.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <nome>Gêmeos</nome>
+        <descricao>Curiosos e comunicativos, os geminianos adoram aprender e compartilhar ideias.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <nome>Câncer</nome>
+        <descricao>Emocionais e protetores, os cancerianos valorizam suas relações familiares.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <nome>Leão</nome>
+        <descricao>Carismáticos e confiantes, os leoninos adoram ser o centro das atenções.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <nome>Virgem</nome>
+        <descricao>Práticos e detalhistas, os virginianos valorizam a organização e a perfeição.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <nome>Libra</nome>
+        <descricao>Diplomáticos e encantadores, os librianos prezam pela harmonia e pela justiça.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <nome>Escorpião</nome>
+        <descricao>Intensos e apaixonados, os escorpianos têm uma grande força emocional.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <nome>Sagitário</nome>
+        <descricao>Aventureiros e otimistas, os sagitarianos amam explorar o mundo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <nome>Capricórnio</nome>
+        <descricao>Responsáveis e disciplinados, os capricornianos valorizam o trabalho duro.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <nome>Aquário</nome>
+        <descricao>Originais e idealistas, os aquarianos amam a liberdade e novas ideias.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <nome>Peixes</nome>
+        <descricao>Sonhadores e empáticos, os piscianos têm uma grande sensibilidade emocional.</descricao>
+    </signo>
+</signos>
